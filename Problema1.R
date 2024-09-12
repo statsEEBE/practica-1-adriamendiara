@@ -29,7 +29,7 @@ quantile(mis_dades$drat)#vemos los quartiles resultado 1r quartil 3.080
 mis_dades$mpg
 quantile(mis_dades$mpg,0.18) #resultado valor percentil 18% mpg es 15.116
 
-IQR(mis_dades$cyl) # rango intercuartil (3r quartil - 1r quartil) de cyl resultadfo es 4
+IQR(mis_dades$cyl) # rango intercuartil (3r quartil - 1r quartil) de cyl resultado es 4
 
 sort(mis_dades$cyl)
 
